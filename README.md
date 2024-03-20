@@ -1,4 +1,4 @@
-This project is a part of the question posted on StackOverflow, please have a look at full question here: 
+This project is a part of the question posted on StackOverflow, please have a look at full question here: https://stackoverflow.com/questions/78192074/combination-of-latest-versions-of-vite-vue-vitejs-plugin-vue-and-vite-plugin
 
 
 ## Steps to reproduce:
